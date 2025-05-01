@@ -1,6 +1,6 @@
-# 📦 animated_feedback_rating
+# 📦 animated_feedback_rating with TTS 🔊
 
-**A beautiful, animated Flutter package** to collect ratings and short feedback easily!  
+**A beautiful, animated Flutter package** to collect ratings and short feedback easily with TTS! 🔊
 Supports **emoji**, **icons**, and **dynamic feedback options** with smooth animations ✨
 
 ---
@@ -12,17 +12,29 @@ Supports **emoji**, **icons**, and **dynamic feedback options** with smooth anim
 - 🎨 Fully customizable
 - 📱 Smooth animations
 - 🔥 Easy integration
+-🎤 Text to Speech (TTS) functionality to speak feedback and rating choices
 
----
 
-## 📸 Screenshots
+📸 Screenshot
 
-| Rating Selection | Feedback Options |
-|:----------------:|:----------------:|
-| ![Rating Example](https://via.placeholder.com/200x200) | ![Feedback Example](https://via.placeholder.com/200x200) |
+<img src="assets/Screenshot_1.png" alt="Screenshot 2" width="200"/>
 
-_(Replace these with real screenshots later.)_
+<img src="assets/Screenshot_2.png" alt="Screenshot 3" width="200"/>
 
+<img src="assets/Screenshot_3.png" alt="Screenshot 4" width="200"/>
+
+
+▶ Demo Video
+
+Check out the demo videos for the package:
+
+[![Watch the video](https://img.youtube.com/vi/9c93fJ3yyyY/0.jpg)](https://www.youtube.com/shorts/fAsaudVLIgM)
+
+_This video demonstrates the Text to Speech feature in action with Emoji._
+
+[![Watch the video](https://img.youtube.com/vi/3ZFJjEoIv6U/0.jpg)](https://www.youtube.com/shorts/68o1ZSSANvw)
+
+_This video demonstrates the Text to Speech feature in action with Star._
 ---
 
 ## 🚀 Getting Started
@@ -31,7 +43,7 @@ Add dependency in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  animated_feedback_rating: ^1.0.0
+  animated_feedback_rating: ^0.0.1
 ```
 
 Then run:
