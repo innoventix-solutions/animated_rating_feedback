@@ -1,6 +1,10 @@
 name: animated_rating_feedback
-description: "A new Flutter package project."
-version: 0.0.1
+description: |
+  A Flutter package to create animated feedback rating systems, with support for emojis, icons, 
+  and dynamic feedback options. It also includes text-to-speech (TTS) functionality to speak 
+  ratings and feedback selections.
+
+version: 0.0.2
 author: Innoventix Solutions
 publisher: https://innoventixsolutions.com
 repository: https://github.com/innoventix-solutions/animated_rating_feedback
