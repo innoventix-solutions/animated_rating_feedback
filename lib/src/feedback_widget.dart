@@ -13,10 +13,7 @@ class AnimatedFeedbackRating extends StatefulWidget {
 
 class _AnimatedFeedbackRatingState extends State<AnimatedFeedbackRating> {
   late FlutterTts _flutterTts; // Declare flutter_tts instance
-  final Set<String> _spokenFeedback = <String>{}; // Track spoken feedback items
-  final Set<String> _spokenEmojis = <String>{}; // Track spoken emojis
   final Set<String> _selectedFeedback = <String>{}; // Track selected feedback
-  final Set<String> _selectedEmojis = <String>{}; // Track selected emojis
   String? _selectedEmojiId; // Track the currently selected emoji ID
 
   @override
